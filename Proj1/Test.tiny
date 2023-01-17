@@ -1,0 +1,4 @@
+x = 4
+y = 43
+z = (x * y) / (x - y)
+print z

@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../../Personal/Random/Ruby"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"type": "ruby-debug",
+				"request": "launch",
+				"name": "Launch File",
+				"program": "${workspaceFolder}/${command:AskForProgramName}",
+				"programArgs": [],
+				"useBundler": false
+			}
+		]
+	}
+}
