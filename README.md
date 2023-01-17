@@ -1,2 +1,5 @@
 # COMP3220
 Principles Of Programming Languages at Auburn University
+Professor: Dr. Sardinas
+
+DO NOT USE THIS REPOSITORY FOR ANY ACTIVITIES THAT WOULD BE CONSIDERED ACADEMICALLY DISHONEST.
